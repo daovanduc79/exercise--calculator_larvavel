@@ -46,7 +46,7 @@
                     <p>${{request('discount-price')}}</p>
                 </div>
             </div>
-
+hi
         </form>
     </div>
 </div>
